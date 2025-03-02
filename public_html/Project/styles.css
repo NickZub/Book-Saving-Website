@@ -1,0 +1,24 @@
+.alert-success {
+    background-color: green
+}
+
+.alert-warning {
+    background-color: yellow;
+}
+
+.alert-danger {
+    background-color: red;
+}
+
+.alert-info {
+    background-color: teal;
+}
+nav li{display: inline; background-color: #c49b70;}
+nav li a{color: #c89666}
+body{
+    background-color: #2d545e;
+    color: #e1b382;
+}
+
+div.container-fluid:first-of-type{background-color: #e1b382;}
+nav:first-of-type{background-color: #e1b382;}
